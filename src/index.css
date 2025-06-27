@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "GTA";
+  src: url('./pricedown.otf');
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  font-family: "GTA";
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
