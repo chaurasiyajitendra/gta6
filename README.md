@@ -2,6 +2,9 @@
 
 This project is a visually rich, animated landing page inspired by GTA 6, built with React, Vite, Tailwind CSS, and GSAP for smooth parallax and reveal effects.
 
+## Live Link
+- https://chaurasiyajitendra.github.io/gta6/
+
 ## Features
 - **Animated SVG Reveal:** Custom SVG mask animation on load.
 - **Parallax Mouse Movement:** Dynamic movement of background, sky, and text based on mouse position.
